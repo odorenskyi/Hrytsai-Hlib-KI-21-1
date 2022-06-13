@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1654974738 source:c:\users\user\desktop\lab8\prj\testdriver\main.cpp
+	<cstdlib>
+	<iostream>
+	<math.h>
+	"ModulesGritsay.h"
+
+1654975206 c:\users\user\desktop\lab8\prj\modulesgritsay\modulesgritsay.h
+	<cmath>
+

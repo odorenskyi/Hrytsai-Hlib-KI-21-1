@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1654973477 source:c:\users\user\desktop\lab8\prj\modulesgritsay\main.cpp
+	<iostream>
+	<cmath>
+	"ModulesGritsay.h"
+
+1654975134 c:\users\user\desktop\lab8\prj\modulesgritsay\modulesgritsay.h
+	<cmath>
+
